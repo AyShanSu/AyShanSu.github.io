@@ -843,11 +843,11 @@
       
         <tags>
             
-            <tag> LCS </tag>
-            
             <tag> IGListKit </tag>
             
             <tag> Diff </tag>
+            
+            <tag> LCS </tag>
             
         </tags>
       
